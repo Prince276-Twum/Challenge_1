@@ -1,0 +1,139 @@
+body{
+    background-color:  hsl(217, 54%, 11%);
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300, 400, 600;
+    margin-top: 50px;
+    
+  
+}
+
+
+.container {
+    margin: auto;
+    background-color:  hsl(216, 50%, 16%);
+    height: 570px;
+    width: 350px;
+    border-radius: 13px;
+   -moz-box-shadow: 10px 10px 5px hsl(215, 32%, 27%);
+    -webkit-box-shadow: 10px 10px 5px hsl(215, 32%, 27%);
+    box-shadow: 0px 10px 5px 5px hsl(215, 90%, 4%);
+
+}
+
+.first-pic {
+    width: 300px;
+    border-radius: 7px;
+    margin-top: 20px;
+}
+
+
+
+
+h1 {
+    position: relative;
+    color: hsl(0, 0%, 100%);
+    right: 59px;
+    font-size: 23px;
+    font-weight: 500;
+    text-decoration: none;
+   
+    
+}
+
+h1:hover{
+    color: hsl(178, 100%, 50%) ;
+    text-decoration: none;
+}
+
+
+.letter {
+    position: relative;
+    width: 90%;
+    text-align: start;
+    margin-left: 33px;
+    font-size: 18px;
+    right: 10px;
+    color: hsl(215, 51%, 70%);
+    line-height: normal;
+    margin-bottom: 25px;
+
+}
+.ett{
+    position: relative;
+    padding-right: 113px;
+    padding-left: 3px;
+    bottom: 3px;
+    color: hsl(178, 100%, 50%);
+    
+}
+.time{
+    position: relative;
+    bottom: 3px;
+    margin-left: 3px;
+    color: hsl(215, 51%, 70%);
+}
+
+.secon-image{
+    display: block;
+    width: 8%;
+    position: relative;
+    left: 25px;
+    margin-top: 15px;
+    border: solid wheat 2px;
+    border-radius: 100%;
+    
+
+}
+hr{
+    margin-top: 25px;
+    width: 293px;
+    border-color: rgb(134, 129, 129);
+    border-top: none;
+}   
+
+.creator{
+    position: relative;
+    bottom: 29px;
+    color: hsl(215, 51%, 70%);
+
+    right: 10px;
+}
+
+
+.change{
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+}
+
+.change:hover{
+    color:  hsl(178, 100%, 50%);
+}
+
+.eye{
+    position: relative;
+    top: 41%;
+}
+
+
+.eying{
+    display: inline-block; 
+    background-color: hsl(178, 100%, 50%);
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-top: 20px;
+    opacity: 0;
+    
+
+}
+
+.eying:hover{
+    opacity: 0.5;
+    border-radius: 7px;
+}
+a{
+    text-decoration: none;
+}
